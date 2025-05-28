@@ -1,4 +1,4 @@
-const articles = [
+let articles = [
   { id: 1, title: "Introduzione a JavaScript" },
   { id: 2, title: "Guida a React per principianti" },
   { id: 3, title: "Come funziona il DOM" },
